@@ -1,1 +1,5 @@
 print("welcome bash")
+print("welcome bash")
+print("welcome bash")
+print("welcome bash")
+print("welcome bash")
